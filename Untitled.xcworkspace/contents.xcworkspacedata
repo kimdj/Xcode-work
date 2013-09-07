@@ -5,6 +5,24 @@
       location = "group:Card.h">
    </FileRef>
    <FileRef
+      location = "group:Deck.h">
+   </FileRef>
+   <FileRef
+      location = "group:PlayingCard.h">
+   </FileRef>
+   <FileRef
+      location = "group:PlayingCard.m">
+   </FileRef>
+   <FileRef
+      location = "group:PlayingCardDeck.h">
+   </FileRef>
+   <FileRef
+      location = "group:PlayingCardDeck.m">
+   </FileRef>
+   <FileRef
+      location = "group:Deck.m">
+   </FileRef>
+   <FileRef
       location = "group:Card.m">
    </FileRef>
 </Workspace>
